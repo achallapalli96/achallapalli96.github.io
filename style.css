@@ -14,11 +14,11 @@ body{
   height: 100vh;
   /* overflow: hidden; */
   padding: 10px;
-  background: linear-gradient(to bottom, #68EACC 0%, #497BE8 100%);
+  background: linear-gradient(to bottom, #e6e6fa 0%, #497BE8 100%);
 }
 .wrapper{
   background: #fff;
-  max-width: 200px;
+  max-width: 400px;
   width: 100%;
   margin: 120px auto;
   padding: 25px;
@@ -52,11 +52,11 @@ body{
   width: 50px;
   height: 100%;
   border: none;
-  color: #fff;
+  color: #e6e6fa;
   margin-left: 5px;
   font-size: 21px;
   outline: none;
-  background: #8E49E8;
+  background: #e6e6fa;
   cursor: pointer;
   border-radius: 3px;
   opacity: 0.6;
